@@ -1,0 +1,31 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+background-color: rgb(218, 226, 226);
+font-family: 'Karla ' , sans-serif;
+
+}
+
+.Formulario{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+form{
+background-color: aliceblue;
+width: 30vw;
+height: 25vh;
+border-radius: 1em;
+}
+
+.attribuiton{
+display: flex;
+justify-content: center;
+margin: 10;
+}
+
